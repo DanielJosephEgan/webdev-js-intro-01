@@ -1,6 +1,7 @@
 # Introduction to JS: Variables
 
 ## Overview
+
 This is the beginning of a series of assignments that will cover core JavaScript concepts. Each part will include a short conceptual lesson and an exercise associated with it. You will see code that may look unfamiliar to you. This is intentional because when it becomes a focused lesson, you will have seen it before and the comments related to it.
 
 In this assignment, we will cover creating variables in JavaScript. You will use the string data type in the assignment. More on data types in the next assignment.
@@ -32,30 +33,29 @@ To view the project locally, you can either open the project files in your code 
 
 #### Part 1.
 
-- [ ] View the site with Live Preview.
-- [ ] Read the concept content served from `index.html`.
-- [ ] Do the experiment section inside `index.js`.
-- [ ] When finished with experimenting, comment out everything in `index.js`. You can use these as references for future project/assignments.
+- [x] View the site with Live Preview.
+- [x] Read the concept content served from `index.html`.
+- [x] Do the experiment section inside `index.js`.
+- [x] When finished with experimenting, comment out everything in `index.js`. You can use these as references for future project/assignments.
 
 #### Part 2
 
-- [ ] Navigate to the Assignment Page
-- [ ] Read the assignment overview
-- [ ] In `assignment.js`:
-    - [ ] Create a variable named `book` that cannot be reassigned. Set the value to your favorite book.
-    - [ ] Create a variable named `activity` that can be reassigned. Set the value to your favorite activity.
-    - [ ] Update the function `updateActivitySentence()`.
-    - [ ] Update the function `render()`.
-
+- [x] Navigate to the Assignment Page
+- [x] Read the assignment overview
+- [x] In `assignment.js`:
+  - [x] Create a variable named `book` that cannot be reassigned. Set the value to your favorite book.
+  - [x] Create a variable named `activity` that can be reassigned. Set the value to your favorite activity.
+  - [x] Update the function `updateActivitySentence()`.
+  - [x] Update the function `render()`.
 
 ### Tips
+
 - Push a commit for each task completed. Include a meaningfull commit message.
 - Before the above, update the readme task list to track your progress. To do this, enter x between the brackets.
-- Get used to using your browser's developer tools now. For now, become familiar with: 
-    - Toggling between desktop mode and device emulation/responsive mode.
-    - Using inspector mode to inspect elements.
+- Get used to using your browser's developer tools now. For now, become familiar with:
+  - Toggling between desktop mode and device emulation/responsive mode.
+  - Using inspector mode to inspect elements.
 - If you get stuck, please remember that you have various resources available to you.
-
 
 ### Submitting Your Work
 
